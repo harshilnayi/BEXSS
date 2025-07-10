@@ -1,3 +1,4 @@
+![BEXSS Banner](banner.png)
 
 # Browser Exploit & XSS Automation Toolkit
 
