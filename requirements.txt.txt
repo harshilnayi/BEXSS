@@ -1,0 +1,21 @@
+# --- Web servers & networking ---
+flask               # payload server + C2 listener
+requests            # HTTP requests in scanner / crawler
+
+# --- Console colors (optional, for future terminal output) ---
+colorama
+
+# --- Browser automation for DOM‑XSS ---
+selenium
+webdriver-manager    # auto‑downloads the correct ChromeDriver
+
+# --- HTML parsing & crawling ---
+beautifulsoup4
+lxml                 # fast HTML parser used by BS4
+
+# --- PDF reporting with Unicode support ---
+fpdf2                # modern fork of fpdf; import path is still "from fpdf import FPDF"
+
+# --- Modern themed GUI ---
+ttkbootstrap         # stylish Tkinter themes (depends on Pillow)
+pillow               # image support required by ttkbootstrap
