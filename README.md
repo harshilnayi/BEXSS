@@ -1,3 +1,4 @@
+
 # Browser Exploit & XSS Automation Toolkit
 
 A compact and effective penetration testing tool built to automate the discovery and exploitation of common XSS (Cross-Site Scripting) vulnerabilities. Designed with real-world offensive security needs in mind, this toolkit simplifies the otherwise manual process of scanning, exploiting, and managing XSS attack vectors.
