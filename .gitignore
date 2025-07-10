@@ -1,0 +1,45 @@
+# === Python Bytecode ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Virtual Envs ===
+env/
+venv/
+ENV/
+.venv/
+
+# === Logs ===
+*.log
+
+# === IDE Settings ===
+.vscode/
+.idea/
+
+# === Mac & Windows OS crap ===
+.DS_Store
+Thumbs.db
+
+# === PyInstaller Builds ===
+build/
+dist/
+*.spec
+
+# === Executables ===
+*.exe
+
+# === SQLite DBs ===
+*.sqlite3
+*.db
+
+# === Env Secrets ===
+.env
+.env.*
+
+# === Cache ===
+.cache/
+*.bak
+
+# === Temporary ===
+*.tmp
