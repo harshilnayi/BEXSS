@@ -1,0 +1,32 @@
+
+*.py linguist-language=Python
+
+# Ignore build and dist artifacts
+build/** linguist-detectable=false
+dist/** linguist-detectable=false
+
+# .spec is for PyInstaller, treat it like Python
+*.spec linguist-language=Python
+
+# Ignore compiled Python junk
+*.pyc linguist-detectable=false
+*.pyo linguist-detectable=false
+*.pyz linguist-detectable=false
+
+# Don't count binaries or fonts
+*.exe linguist-detectable=false
+*.dll linguist-detectable=false
+*.ttf linguist-detectable=false
+*.zip linguist-detectable=false
+
+# Exclude logs, cache, temp files
+*.log linguist-detectable=false
+*.toc linguist-detectable=false
+
+
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+
+
+*.env linguist-detectable=false
