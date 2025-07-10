@@ -71,7 +71,7 @@ In most web security testing workflows, detecting XSS vulnerabilities can become
 > - Basic knowledge of terminal/command line
 
 ```bash
-git clone https://github.com/your-username/xss-toolkit.git
-cd xss-toolkit
+git clone https://github.com/harshilnayi/BEXSS.git
+cd BEXSS
 pip install -r requirements.txt
-python app.py
+python gui_launcher.py
