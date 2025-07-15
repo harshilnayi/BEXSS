@@ -20,8 +20,7 @@ In most web security testing workflows, detecting XSS vulnerabilities can become
 **Team Name:** Alpha  
 **Team Members:**
 - 🧑 Harshil  
-- 🧑 Omkar  
-- 🧑 Sumit
+- 🧑 Shanay
 
 ---
 
